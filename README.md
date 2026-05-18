@@ -68,4 +68,4 @@ Principais Endpoints:
 | DELETE | `/api/tasks/{id}` | Remove uma tarefa | Privado |
 
 ---
-Desenvolvido por [Seu Nome] - [Seu LinkedIn]
+Desenvolvido por Samuel Cagnani - [https://www.linkedin.com/in/samuelcagnani/](https://www.linkedin.com/in/samuelcagnani/)
